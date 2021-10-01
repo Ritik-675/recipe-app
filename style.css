@@ -54,5 +54,5 @@ i{
     width: 100%;
     display: grid;
     grid-gap: 25px;
-    grid-template: auto/ repeat(autofit, minmax(300px,1fr)) !important;
+    grid-template: repeat(auto-fill, minmax(400px,auto)) !important;
 }
